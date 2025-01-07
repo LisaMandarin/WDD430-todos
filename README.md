@@ -1,8 +1,7 @@
-# React + Vite
+# This is W01 Assignment of WDD 430
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Skills used
+React
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+A todo list that a user types the name of the item and press the submit button.  The item added will be shown below the form.  A user can check or uncheck the item or delete the item.
